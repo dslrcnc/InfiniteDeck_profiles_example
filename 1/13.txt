@@ -1,0 +1,2 @@
+REM QUIT 888F00
+ALT f
